@@ -125,6 +125,11 @@
     -webkit-transition: all .50s ease-in-out;
 }
 
+/*Rodapé
+Está no estilo2.css
+As novas classes não foram reconhecidas, quando criadas aqui.
+*/
+
 /*Configurações gerais*/
 .underline{
     content: '';
