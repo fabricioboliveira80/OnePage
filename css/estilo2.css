@@ -21,6 +21,14 @@
     color: #c42841;
 }
 
+.bg-rodape2{
+    background-color: #4c465f;    
+}
+
+a.icone-social{
+    color:#b3aec2;
+}
+
 /*Configurações gerais*/
 .underline-footer{
     content: '';
